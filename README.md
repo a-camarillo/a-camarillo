@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 🐨
+- 🔭 I’m currently working on a single-page applcation for tracking a user's weightlifting progress
+- 🌱 I’m currently learning about Vue.js and Node.js
+- 🤝 Hit me up to work on some open source projects
+- 📚 Looking to learn about API design
+- 😄 Pronouns: He/Him/His
+- 📜 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
+
+#### More About Me
+- 🏋️ Enjoy weightlifting, exercising, and playing soccer
+- 👨‍🍳 Constantly looking up what to cook next!
 
 <!--
 **a-camarillo/a-camarillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
