@@ -1,5 +1,5 @@
 ### Hello there 🐨
-- 🔭 I’m currently working on a single-page applcation for tracking a user's weightlifting progress
+- 🔭 I’m currently working on a single-page application for tracking a user's weightlifting progress
 - 🌱 I’m currently learning about Vue.js and Node.js
 - 🤝 Hit me up to work on some open source projects
 - 📚 Looking to learn about API design
