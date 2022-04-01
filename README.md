@@ -1,10 +1,11 @@
 ### Hello there 🐨
-- 🔭 I’m currently working on a single-page application for tracking a user's weightlifting progress
-- 🌱 I’m currently learning about Vue.js and Node.js
+- 🔭 I'm currently building a REST API for recipe data
+- 🌱 I’m currently learning about Django's REST Framework and GraphQL
 - 🤝 Hit me up to work on some open source projects
-- 📚 Looking to learn about API design
+- 📚 Looking to learn about API and system design and best practices
 - 😄 Pronouns: He/Him/His
 - 📜 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
+- ✔️ Recently "Completed": Workout App
 
 #### More About Me
 - 🏋️ Enjoy weightlifting, exercising, and playing soccer
