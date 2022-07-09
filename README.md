@@ -1,11 +1,11 @@
 ### Hello there 🐨
-- 🔭 I'm currently building my portfolio with TypeScript and React
-- 🌱 I’m currently learning about TypeScript and React.
+- 🔭 I'm currently building different Web API projects with Django Rest Framework.
+- 🌱 I’m currently learning about Django Rest Framework.
 - 🤝 Hit me up to work on some open source projects
 - 📚 Looking to learn about API, system design and best practices
 - 😄 Pronouns: He/Him/His
 - 📜 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
-- ✔️ Recently "Completed": Workout App
+- ✔️ Recently "Completed": Personal Portfolio
 
 #### More About Me
 - 🏋️ Enjoy weightlifting, exercising, and playing soccer
