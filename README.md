@@ -5,7 +5,7 @@
 - 📚 Looking to learn about API, system design and best practices
 - 😄 Pronouns: He/Him/His
 - 📜 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
-- ✔️ Recently "Completed": Personal Portfolio
+- ✔️ Recently "Completed": Recipe API
 
 #### More About Me
 - 🏋️ Enjoy weightlifting, exercising, and playing soccer
