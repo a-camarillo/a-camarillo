@@ -1,6 +1,6 @@
 ### Hello there 🐨
-- 🔭 I'm currently building different Web API projects with Django Rest Framework.
-- 🌱 I’m currently learning about Django Rest Framework.
+- 🔭 I'm currently building a CLI tool with Go and YouTube's Data API.
+- 🌱 I’m currently learning about Go.
 - 🤝 Hit me up to work on some open source projects
 - 📚 Looking to learn about API, system design and best practices
 - 😄 Pronouns: He/Him/His
