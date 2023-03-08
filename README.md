@@ -1,11 +1,11 @@
 ### Hello there 🐨
-- 🔭 I'm currently brainstorming what to build next.
-- 🌱 I’m currently learning about Rust.
+- 🔭 I'm currently re-building a previous API I made, but in Go!
+- 🌱 I’m currently learning about Go.
 - 🤝 Hit me up to work on some open source projects
 - 📚 Looking to learn about API, system design and best practices
 - 😄 Pronouns: He/Him/His
 - 📜 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
-- ✔️ Recently "Completed": Recipe API
+- ✔️ Recently "Completed": Broom
 
 #### More About Me
 - 🏋️ Enjoy weightlifting, exercising, and playing soccer
