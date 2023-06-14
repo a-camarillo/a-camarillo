@@ -1,6 +1,6 @@
 ### Hello there 🐨
-- 🔭 I'm currently re-building a previous API I made, but in Go!
-- 🌱 I’m currently learning about Go.
+- 🔭 I'm currently brainstorming what I want to work on next and enjoying this thing we call life!
+- 🌱 I’m currently learning about Go(in between playing Legend of Zelda: Tears of The Kingdom).
 - 🤝 Hit me up to work on some open source projects
 - 📚 Looking to learn about API, system design and best practices
 - 😄 Pronouns: He/Him/His
