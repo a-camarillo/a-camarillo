@@ -1,8 +1,7 @@
 ### Hello there 🐨
+- 🌱 Currently enrolled for an M.S. in Mechanical Engineering, Control, and Robotics at California State University, Long Beach.
 - 🔭 I'm currently working on ***myself*** and enjoying this thing we call life!
-- 🌱 I’m currently learning about embedded programming with Rust.
 - 🤝 Hit me up to work on some open source projects
-- 📚 Looking to learn about API, system design and best practices
 - 😄 Pronouns: He/Him/His
 - 📜 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
 - ✔️ Recently "Completed": Broom
